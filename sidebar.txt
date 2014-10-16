@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[ate:home|Door43 (ate)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-ate|d43-ate repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-ate/archive/master.zip|d43-ate.zip]]
+
+**Recent Changes**
+{{changes>ns = ate}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/ate|Ethnologue data]]
+
